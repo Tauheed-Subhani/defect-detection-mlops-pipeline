@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Project-specific large/generated files
+archive/
+production_stream/
+model.pth
+model_finetuned.pth
+mlflow.db
+mlruns/
+drift_report.html
+drift_status.json
+drift_history.json
