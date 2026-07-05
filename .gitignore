@@ -14,3 +14,4 @@ mlruns/
 drift_report.html
 drift_status.json
 drift_history.json
+.vscode/
